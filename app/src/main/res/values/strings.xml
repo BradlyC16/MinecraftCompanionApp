@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MinecraftCompanionApp3</string>
+    <string name="windows_10">Windows 10</string>
+    <string name="xbox_one">Xbox One</string>
+    <string name="psn">PSN</string>
+    <string name="go_back">Go Back</string>
+    <string name="nintendo_network">Nintendo Network</string>
+    <string name="login">login</string>
+    <string name="other">Other...</string>
+    <string name="password">Password</string>
+    <string name="mc_username_or_email">MC Username Or Email</string>
+</resources>
